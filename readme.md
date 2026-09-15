@@ -1,4 +1,3 @@
-# Linked List
 # Array List
 
 A C++ project to build and test an [array list](https://en.wikipedia.org/wiki/Dynamic_array) implementation.
