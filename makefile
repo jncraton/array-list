@@ -6,9 +6,9 @@ all: test
 format:
 	clang-format -i *.cc
 
-test: linkedlist.cc
+test: arraylist.cc
 	g++ -std=c++23 $< -o $@
 	./$@
 	
 clean:
-	rm -rf linkedlist test
+	rm -rf linkedlist test arraylist
