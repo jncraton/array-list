@@ -2,6 +2,8 @@
 
 A C++ project to build and test an [array list](https://en.wikipedia.org/wiki/Dynamic_array) implementation.
 
+![Dynamic Array](https://upload.wikimedia.org/wikipedia/commons/3/31/Dynamic_array.svg)
+
 ## Learning Outcomes
 
 After completing this experience, learners will be able to:
